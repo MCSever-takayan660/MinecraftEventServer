@@ -1,0 +1,2 @@
+# MinecraftEventServer
+Minecraft event server
